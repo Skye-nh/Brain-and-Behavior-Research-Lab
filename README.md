@@ -1,5 +1,5 @@
 # Brain-and-Behavior-Research-Lab
-Statistical analysis conducted as Research Assistant and Missouri State University.
+Statistical analysis conducted as Research Assistant at Missouri State University.
 
   File Contains:
   -cleaned and scored data set (Qualtrics questionnaire results)
